@@ -1,6 +1,4 @@
 # DualDuel
-DualDuel
-Dual Duel
 
 **************************************************
 2v2 hourglass shaped map
