@@ -75,17 +75,17 @@ Utility Characters:
 
 - Defender (knockback, shield/block, speedboost to ally)
   - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/dwarf-guard-woman-fantasy-191483
-	- Repells incoming attacks, knocking enemies away from their ally
-	- crowd control enemies and slightly buffs allies
+  - Repells incoming attacks, knocking enemies away from their ally
+  - crowd control enemies and slightly buffs allies
     
 - Enchanter (slow-->root, heal, aoe enemy dmg reduction[kindred/shen-esque])
-	- https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/hell-queen-fantasy-191015
-	- Mixed role of engaging and defending
-	- buffs self and ally, debuffs enemies
+  - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/hell-queen-fantasy-191015
+  - Mixed role of engaging and defending
+  - buffs self and ally, debuffs enemies
     
 - Engage (hook/jump, silence target, speedboost to self)
-	- https://assetstore.unity.com/packages/3d/characters/creatures/hell-heavy-elemental-fantasy-190876
-	- https://assetstore.unity.com/packages/3d/characters/creatures/hell-elemental-fantasy-190438
-	- Starts fights, pulling enemy to them or jumping to the enemy
-	- crowd control and slightly debuffs enemies
+  - https://assetstore.unity.com/packages/3d/characters/creatures/hell-heavy-elemental-fantasy-190876
+  - https://assetstore.unity.com/packages/3d/characters/creatures/hell-elemental-fantasy-190438
+  - Starts fights, pulling enemy to them or jumping to the enemy
+  - crowd control and slightly debuffs enemies
 **************************************************
