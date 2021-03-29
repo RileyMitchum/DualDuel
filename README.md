@@ -3,7 +3,7 @@
 **************************************************
 2v2 hourglass shaped map
 control point 
-3 min games
+3 minute games
 stand in control point area to earn tickets or kill enemy players
 **************************************************
 
